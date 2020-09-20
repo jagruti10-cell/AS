@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73332" started-at="2020-09-20T15:49:26Z" finished-at="2020-09-20T15:50:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="73332" started-at="2020-09-20T15:49:26Z" finished-at="2020-09-20T15:50:40Z">
+      <class name="com.as.test.DemoA">
+        <test-method status="PASS" signature="testBrowser()[pri:0, instance:com.as.test.DemoA@2096442d]" name="testBrowser" duration-ms="48773" started-at="2020-09-20T15:49:27Z" finished-at="2020-09-20T15:50:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBrowser -->
+        <test-method status="PASS" signature="testSearchBox()[pri:0, instance:com.as.test.DemoA@2096442d]" name="testSearchBox" duration-ms="24530" started-at="2020-09-20T15:50:15Z" finished-at="2020-09-20T15:50:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchBox -->
+      </class> <!-- com.as.test.DemoA -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
